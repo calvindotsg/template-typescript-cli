@@ -1,0 +1,23 @@
+# {{TOOL_NAME}}
+
+> {{TOOL_DESCRIPTION}}
+
+## What it does
+
+Describe the main functionality here.
+
+## Install
+
+npx {{TOOL_NAME}} run
+
+## Key features
+
+- Feature one
+- Feature two
+- Feature three
+
+## Links
+
+- Source: https://github.com/{{AUTHOR}}/{{TOOL_NAME}}
+- npm: {{NPM_HOMEPAGE}}
+- Changelog: https://github.com/{{AUTHOR}}/{{TOOL_NAME}}/blob/main/CHANGELOG.md
